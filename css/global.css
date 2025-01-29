@@ -1,0 +1,45 @@
+:root {
+  --font-family: 'Poppins', sans-serif;
+  /* Textos normais */
+  --text: 400 1rem/1.2 var(--font-family);
+  --text-lg: 400 1.125rem/1.2 var(--font-family);
+  /* Headings (títulos em bold) */
+  --text-xl: 700 1.25rem/1.2 var(--font-family);
+  --text-xxl: 700 2rem/1.2 var(--font-family);
+
+
+  /* Cores de Brand */
+  --brand-light: #f67841;
+  --brand-mid: #f3541c;
+  --brand-dark: #e43a12;
+  /* Cores de Texto */
+  --text-primary: #292524;
+  --text-secondary: #57534e;
+  --text-tertiary: #8f8881;
+  --text-highlight: #e43a12;
+  /* Surface */
+  --surface-primary: #fff;
+  --surface-secondary: #FEE7D6;     
+  --surface-disabled: #e7e5e4;
+  /* Stroke */
+  --stroke-default: #d6d3d1;
+  --stroke-highlight: #f3541c;
+  /* Semantics */
+  --semantic-error: #dc2626;
+}
+
+h1, h2 {
+  font: var(--text-xxl);
+}
+
+h3 {
+  font: var(--text-xl);
+}
+
+h4 {
+  font: var(--text-lg);
+}
+
+p {
+  font: var(--text);
+}
