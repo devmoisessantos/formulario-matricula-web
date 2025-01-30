@@ -36,10 +36,19 @@
 
 body {
   overflow: hidden; /* Oculta a barra de rolagem e nunca tranborda */
+
+  font: var(--text);
+  color: var(--text-secondary);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 h1, h2 {
   font: var(--text-xxl);
+  color: var(--text-primary);
 }
 
 h3 {
