@@ -1,16 +1,16 @@
 # Stage 03: Definição de Layout e Organização do Código
 
-### 1. Ajustes no `global.css`
+## 1. Ajustes no `global.css`
 
 Foram adicionadas variáveis de **tipografia**, **cores** e **comportamento do body** para padronizar o estilo do projeto.
 
-### Alterações realizadas:
+### Alterações realizadas
 
 * Reset básico de margens, preenchimentos e `box-sizing`.
 * Ajuste de `overflow` no `body` para ocultar a barra de rolagem.
 * Aplicação de variáveis de fonte nos títulos e parágrafos.
 
-### Código atualizado (`global.css`):
+### Código atualizado (`global.css`)
 
 ```css
 * {
@@ -79,7 +79,7 @@ p {
 
 Foi criado o arquivo `layout.css` para definir o **layout base** do projeto utilizando **CSS Grid**.
 
-### Código (`layout.css`):
+### Código (`layout.css`)
 
 ```css
 #app {
@@ -121,7 +121,7 @@ No `styles.css`, foi importado o `layout.css` para manter a organização do có
 
 O HTML foi atualizado para seguir a nova estrutura, utilizando **`<main>`** e **`<aside>`** para organizar os blocos de conteúdo.
 
-### Código atualizado (`index.html`):
+### Código atualizado (`index.html`)
 
 ```html
 <div id="app">
