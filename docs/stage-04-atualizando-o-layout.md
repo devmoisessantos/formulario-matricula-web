@@ -147,4 +147,3 @@ Neste estágio, foram feitas alterações significativas no layout do projeto, t
   - Definição de estilos globais para o corpo da página, imagens e títulos.
 
 Essas alterações ajudaram a organizar o layout da página e a preparar a base para a estilização futura. 🚀
-
