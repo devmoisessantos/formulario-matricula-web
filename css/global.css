@@ -26,9 +26,9 @@
   /* Surface */
   --surface-primary: #fff;
   --surface-secondary: #FEE7D6;     
-  --surface-disabled: #e7e5e4;
+  --surface-disabled: #E7E5E4;
   /* Stroke */
-  --stroke-default: #d6d3d1;
+  --stroke-default: #D6D3D1;
   --stroke-highlight: #f3541c;
   /* Semantics */
   --semantic-error: #dc2626;
@@ -61,4 +61,17 @@ h4 {
 
 p {
   font: var(--text);
+}
+
+/* Classes de Utilidade */
+.flex {
+  display: flex;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.flex-1 {
+  flex: 2;
 }
