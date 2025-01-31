@@ -1,6 +1,6 @@
 # Stage 02: Configuração de Assets e Variáveis
 
-### 1. Adicionar Imagens e Ícones
+## 1. Adicionar Imagens e Ícones
 
 Baixe ou exporte todos os assets necessários para o projeto.
 
@@ -32,13 +32,16 @@ No início do arquivo `styles.css`, importe o `global.css`:
 
 No `index.html`, defina a estrutura base do documento e adicione a fonte escolhida via **Google Fonts**.
 
-### Métodos para importar a fonte:
+### Métodos para importar a fonte
 
 * **Diretamente no CSS:**
+
   ```css
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
   ```
+
 * **No HTML (recomendado para melhor performance):**
+
   ```html
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
   ```
