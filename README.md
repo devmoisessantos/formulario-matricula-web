@@ -33,7 +33,7 @@ Um formulário de matrícula responsivo e acessível desenvolvido para a escola 
 - **VS Code**: Editor .❤.
 - **Figma**: Design do Projeto.
 - **Git**: Versionamento.
-- **Versel**: Deploy.
+- **Vercel**: Deploy.
 
 ---
 
@@ -110,7 +110,7 @@ Se tiver alguma dúvida ou sugestão, entre em contato:
 
 - **E-mail**: [devmoisessantos@gmail.com]
 - **GitHub**: [devmoisessantos](https://github.com/devmoisessantos)
-- [**Veja aqui**:](https://github.com/devmoisessantos)
+- [**Veja aqui**](https://formulario-matricula-web.vercel.app/))
 
 ---
 
