@@ -2,7 +2,7 @@
 
 # 🏫 Formulário de Matrícula - Escola Estrela do Amanhã
 
-Um formulário de matrícula responsivo e acessível desenvolvido para a escola **Estrela do Amanhã**. O projeto foi construído com HTML, CSS e JavaScript, seguindo boas práticas de desenvolvimento e design
+Um formulário de matrícula responsivo e acessível desenvolvido para a escola **Estrela do Amanhã**. O projeto foi construído com HTML e CSS, seguindo boas práticas de desenvolvimento e design.
 ---
 
 ## 📋 Funcionalidades
